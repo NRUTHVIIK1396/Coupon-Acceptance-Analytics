@@ -42,3 +42,6 @@ The analysis suggests that targeting bar and coffee house coupons to the specifi
 ### Future Work
 - Implementing a real-time recommendation system that personalizes coupons based on a combination of user preferences, driving behavior, and current contextual factors (e.g., traffic, weather, and time of day).
 - Exploring the impact of offering multiple coupons simultaneously, such as bundling coffee house coupons with restaurant discounts or bar coupons, to assess whether bundled offers increase overall acceptance rates.
+
+## Notebook
+The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/NRUTHVIIK1396/Coupon-Acceptance-Analytics/blob/main/notebook/driving_coupon_acceptance_analysis.ipynb">here</a>.
